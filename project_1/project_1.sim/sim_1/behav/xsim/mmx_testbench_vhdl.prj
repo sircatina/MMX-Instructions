@@ -1,0 +1,38 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/adder_sb.vhd" \
+"../../../../project_1.srcs/sources_1/new/adder_usb.vhd" \
+"../../../../project_1.srcs/sources_1/new/and_64.vhd" \
+"../../../../project_1.srcs/sources_1/new/and_gate.vhd" \
+"../../../../project_1.srcs/sources_1/new/comp_1.vhd" \
+"../../../../project_1.srcs/sources_1/new/comp_32.vhd" \
+"../../../../project_1.srcs/sources_1/new/comp_8.vhd" \
+"../../../../project_1.srcs/sources_1/new/full_adder.vhd" \
+"../../../../project_1.srcs/sources_1/new/full_adder_8.vhd" \
+"../../../../project_1.srcs/sources_1/new/main.vhd" \
+"../../../../project_1.srcs/sources_1/new/mmx_operations.vhd" \
+"../../../../project_1.srcs/sources_1/new/nand_64.vhd" \
+"../../../../project_1.srcs/sources_1/new/nand_gate.vhd" \
+"../../../../project_1.srcs/sources_1/new/or_64.vhd" \
+"../../../../project_1.srcs/sources_1/new/or_gate.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddb.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddd.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddd_32.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddsb.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddsw.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddsw_16.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddusb.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddusw.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddusw_16.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddw.vhd" \
+"../../../../project_1.srcs/sources_1/new/paddw_16.vhd" \
+"../../../../project_1.srcs/sources_1/new/pcmpeqb.vhd" \
+"../../../../project_1.srcs/sources_1/new/pcmpeqd.vhd" \
+"../../../../project_1.srcs/sources_1/new/pcmpeqw.vhd" \
+"../../../../project_1.srcs/sources_1/new/regfile.vhd" \
+"../../../../project_1.srcs/sources_1/new/xor_64.vhd" \
+"../../../../project_1.srcs/sources_1/new/xor_gate.vhd" \
+"../../../../project_1.srcs/sim_1/new/mmx_testbench.vhd" \
+
+# Do not sort compile order
+nosort
